@@ -1,5 +1,5 @@
 # Flybull Learning
 
-[flybull.com](flybull.com)
+[flybull.com](https://www.flybull.com)
 
 For releases only
